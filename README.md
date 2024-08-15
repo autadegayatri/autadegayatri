@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @autadegayatri
 - 👀 I’m Interested in learning new Technologies.
-- 🌱 I’m Pursuing B-tech in Imformation Technology.
+- 🌱 I’m Pursuing B-tech in Information Technology.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
