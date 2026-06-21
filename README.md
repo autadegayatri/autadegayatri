@@ -128,7 +128,7 @@ Check out my pinned repositories below for additional work, experiments, and con
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatriautade&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=gayatriautade&theme=tokyonight&no-frame=true&row=2&column=3" alt="GitHub Trophies" height="165"/>
+ 
 </p>
 
 #### 📅 Contribution Graph
